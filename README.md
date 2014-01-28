@@ -1,4 +1,4 @@
 AddressBook
 ===========
 
-An address book for android app
+An address book android app
